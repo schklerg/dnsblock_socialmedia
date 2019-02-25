@@ -1,6 +1,9 @@
 ############################################
 # To Completely Block Facebook
 # Add these entries below to your hosts file
+
+127.0.0.1 localhost
+
 127.0.0.1 apps.facebook.com
 127.0.0.1 connect.facebook.net
 127.0.0.1 facebook.com
