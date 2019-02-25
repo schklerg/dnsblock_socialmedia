@@ -1,0 +1,25 @@
+############################################
+# To Completely Block WhatsApp - a Facebook property
+# Add these entries below to your hosts file
+127.0.0.1 whatsapp.com
+127.0.0.1 www.whatsapp.com
+127.0.0.1 web.whatsapp.com
+127.0.0.1 w1.web.whatsapp.com
+127.0.0.1 w2.web.whatsapp.com
+127.0.0.1 w3.web.whatsapp.com
+127.0.0.1 w4.web.whatsapp.com
+127.0.0.1 w5.web.whatsapp.com
+127.0.0.1 w6.web.whatsapp.com
+127.0.0.1 w7.web.whatsapp.com
+127.0.0.1 w8.web.whatsapp.com
+127.0.0.1 w9.web.whatsapp.com
+127.0.0.1 whatsapp-cdn-shv-01-atl1.fbcdn.net
+127.0.0.1 whatsapp-cdn-shv-01-dfw1.fbcdn.net
+127.0.0.1 whatsapp-cdn-shv-01-iad3.fbcdn.net
+127.0.0.1 whatsapp-cdn-shv-01-lax1.fbcdn.net
+127.0.0.1 whatsapp-cdn-shv-01-lax3.fbcdn.net
+127.0.0.1 whatsapp-cdn-shv-01-lga1.fbcdn.net
+127.0.0.1 whatsapp-cdn-shv-01-mia1.fbcdn.net
+127.0.0.1 whatsapp-cdn-shv-01-ord1.fbcdn.net
+127.0.0.1 whatsapp-cdn-shv-01-sea1.fbcdn.net
+127.0.0.1 whatsapp-cdn-shv-01-sjc2.fbcdn.net

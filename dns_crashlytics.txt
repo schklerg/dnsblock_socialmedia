@@ -1,0 +1,12 @@
+############################################
+# To Completely Block Crashlytics - a Common App telemetry site
+# Add these entries below to your hosts file
+127.0.0.1 app.crashlytics.com
+127.0.0.1 crashlytics.com
+127.0.0.1 settings.crashlytics.com
+127.0.0.1 apps.crashlytics.com
+127.0.0.1 www.crashlytics.com
+127.0.0.1 ios.crashlytics.com
+127.0.0.1 o1.outbound.crashlytics.com
+127.0.0.1 o2.outbound.crashlytics.com
+127.0.0.1 o3.outbound.crashlytics.com
