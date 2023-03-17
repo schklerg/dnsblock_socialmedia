@@ -13,4 +13,5 @@ Confirmed to work with [Adaway](https://adaway.org/), but I imagine it works wit
 * dns_crashlytics.txt blocks telemetry reporting to Crashlytics.  They don't seem to do aggressive tracking, but if you are not a fan of telemetry, add this.
 * dns_youtube.txt is my attempt to block ads in Youtube.  Not sure how effective yet.
 
+Have not done anything with this.  WOW
 **NOTE**  In case it's not obvious, using these blocklists will block these sites entirely for your system.  Use at your own discretion.  
